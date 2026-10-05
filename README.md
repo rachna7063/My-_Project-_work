@@ -49,4 +49,4 @@ To identify the absolute optimal baseline for the distance-based algorithm, a pa
 * **Execution Environment:** Google Colab / Jupyter Notebook
 * **Core Analytics & Math Stack:** Pandas, NumPy, Scikit-Learn
 * **Data Visualization Suites:** Matplotlib, Seaborn
-* **Model Serialization:** Joblib (Serialized `.pkl` objects for rapid deployment pipeline)
+
