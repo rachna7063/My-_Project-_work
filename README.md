@@ -1,4 +1,4 @@
-# My-_Project-_work
+# My_Project_work
 Python project
 # Socioeconomic Classification & Optimization Pipeline
 
